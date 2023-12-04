@@ -1,2 +1,4 @@
 # Diabetes-prediction
-This is my machine learning project E22BCAU0146
+This is my machine learning project 
+BY- SHRESHTHA RAJ
+E22BCAU0146
